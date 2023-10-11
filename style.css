@@ -1,0 +1,63 @@
+ 
+ body {
+    margin: 0;
+    padding: 0;
+    background-image: url("./rsc/back.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center top;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 10%;
+    background-color: white;
+    align-items:center;
+    box-sizing:border-box;
+    padding: 10px;
+}
+.hamburger-menu {
+    font-size: 20px;
+    color: blue;
+}
+.logo {
+    text-align: center;
+    flex-grow: 1;
+}
+.login-button img {
+    width: 40px;
+
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90%;
+    justify-content: center;
+}
+
+.hello-text {
+    position: absolute;
+    top: 323.17px;
+    left: 421px;
+    text-align: center;
+    color: #202727;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: 0.5199999809265137px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
